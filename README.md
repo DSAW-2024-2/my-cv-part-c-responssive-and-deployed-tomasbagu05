@@ -1,5 +1,7 @@
 # Bienvenidos a la Tarea de HTML y CSS
 
+LINK: https://dsaw-2024-2.github.io/my-cv-part-c-responssive-and-deployed-tomasbagu05/
+
 ¡Hola a todos!
 
 En esta tarea, vamos a crear nuestra propia hoja de vida (CV) utilizando HTML y CSS. Este ejercicio está dividido en dos partes para que puedan enfocarse primero en la estructura y luego en el diseño.
